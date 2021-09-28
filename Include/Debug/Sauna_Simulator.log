@@ -1,0 +1,6 @@
+﻿  CJelly.cpp
+C:\MyProject\Sauna_Simulator\Sauna_Simulator\Include\type.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyProject\Sauna_Simulator\Sauna_Simulator\Include\type.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyProject\Sauna_Simulator\Sauna_Simulator\Include\type.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MyProject\Sauna_Simulator\Sauna_Simulator\Include\type.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sauna_Simulator.vcxproj -> C:\MyProject\Sauna_Simulator\Sauna_Simulator\Bin\Sauna_Simulator32.Debug.exe
